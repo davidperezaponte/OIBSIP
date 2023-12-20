@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Oasis Infobyte Data Scientist Internship Program (OIBSIP) repository! This repository contains projects and resources related to the data science internship program at Oasis Infobyte. The internship program is designed to provide hands-on experience and real-world projects in the field of data science.
+Welcome to the Projects for Oasis Infobyte Data Scientist Internship Program (OIBSIP) repository! This repository contains projects and resources related to the data science internship program at Oasis Infobyte. The internship program is designed to provide hands-on experience and real-world projects in the field of data science.
 
 ## About Oasis Infobyte
 
